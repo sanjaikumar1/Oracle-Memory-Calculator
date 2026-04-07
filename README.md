@@ -48,7 +48,7 @@
 
 ###### 
 
-###### git clone <your-github-repo-url>
+###### git clone https://github.com/sanjaikumar1/Oracle-Memory-Calculator.git
 
 ###### cd oracle-app
 
